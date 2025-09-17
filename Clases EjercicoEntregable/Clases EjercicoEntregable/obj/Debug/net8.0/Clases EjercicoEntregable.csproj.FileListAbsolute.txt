@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\bin\Debug\net8.0\Clases EjercicoEntregable.deps.json
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\bin\Debug\net8.0\Clases EjercicoEntregable.runtimeconfig.json
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\bin\Debug\net8.0\Clases EjercicoEntregable.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\bin\Debug\net8.0\Clases EjercicoEntregable.pdb
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.AssemblyInfo.cs
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.sourcelink.json
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\refint\Clases EjercicoEntregable.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.pdb
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\Clases EjercicoEntregable.genruntimeconfig.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\EjercicioEntregable-9-17\Clases EjercicoEntregable\Clases EjercicoEntregable\obj\Debug\net8.0\ref\Clases EjercicoEntregable.dll
