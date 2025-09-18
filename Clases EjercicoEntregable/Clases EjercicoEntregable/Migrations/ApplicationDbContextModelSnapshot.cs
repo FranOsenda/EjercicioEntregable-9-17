@@ -53,6 +53,10 @@ namespace Clases_EjercicoEntregable.Migrations
                     b.Property<int>("DepartamentoId")
                         .HasColumnType("int");
 
+                    b.Property<string>("email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("nombre")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

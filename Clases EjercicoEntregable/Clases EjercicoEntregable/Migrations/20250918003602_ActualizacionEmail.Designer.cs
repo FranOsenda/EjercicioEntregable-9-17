@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Clases_EjercicoEntregable.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250917234903_email")]
-    partial class email
+    [Migration("20250918003602_ActualizacionEmail")]
+    partial class ActualizacionEmail
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -55,6 +55,10 @@ namespace Clases_EjercicoEntregable.Migrations
 
                     b.Property<int>("DepartamentoId")
                         .HasColumnType("int");
+
+                    b.Property<string>("email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("nombre")
                         .IsRequired()
