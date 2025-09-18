@@ -99,13 +99,13 @@ namespace Front
                     case "4":
                         Console.WriteLine("Registrar nuevo departamento");
                         Console.Write("Nombre del departamento: ");
-                        string nombreDept = Console.ReadLine();
+                        string nombreDepartamento = Console.ReadLine();
                         Console.Write("Descripción del departamento: ");
-                        string descripcionDept = Console.ReadLine(); 
-                        Departamento departamento = new Departamento() { nombre = nombreDept, descripcion = descripcionDept };
+                        string descripcionDepartamento = Console.ReadLine(); 
+                        Departamento departamento = new Departamento() { nombre = nombreDepartamento, descripcion = descripcionDepartamento };
                         departamentos.Add(departamento);
                         DepartamentoRepository.GuardarDepartamento(departamento);
-
+                        
                         Console.WriteLine("Para volver al menu principal presione una tecla");
                         Console.ReadKey();
                         break;
@@ -127,6 +127,12 @@ namespace Front
                             Console.ReadKey();
                             break;
                         }
+                    case "6":
+                        Console.WriteLine("Saliendo del programa...");
+                        EmpleadoRepository.guardarCambios();
+                        DepartamentoRepository.guardarCambios();
+                        return; 
+                     
 
                 }
             }

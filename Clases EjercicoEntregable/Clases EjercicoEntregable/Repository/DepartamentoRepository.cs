@@ -23,6 +23,11 @@ namespace Clases_EjercicoEntregable.Repository
             using var context = new ApplicationDbContext();
             return context.departamentos.ToList();
         }
+        public static void guardarCambios()
+        {
+            using var context = new ApplicationDbContext();
+            context.SaveChanges();
+        }
 
     }
 }
