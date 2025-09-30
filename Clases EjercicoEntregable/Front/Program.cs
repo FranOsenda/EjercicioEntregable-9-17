@@ -51,9 +51,15 @@ namespace Front
                             Console.WriteLine("No existe un departamento con ese Id.");
                             break;
                         }
-                        Empleado empleado = new Empleado() { nombre = nombre, email = email, salario = salario, DepartamentoId = departamentoID };
+                        Empleado empleado = new Empleado()
+                        {
+                            nombre = nombre, 
+                            email = email, 
+                            salario = salario, 
+                            DepartamentoId = departamentoID 
+                        };
                         empleados.Add(empleado);
-                        EmpleadoRepository.GuardarEmpleado(empleado);
+
                         Console.WriteLine("Empleado registrado.\n");
 
                         Console.WriteLine("Para volver al menu principal presione una tecla");
@@ -91,6 +97,7 @@ namespace Front
                         else
                         {
                             empleados.Remove(empleadoEliminar);
+                            EmpleadoRepository.guardarCambios();
                             Console.WriteLine("Empleado eliminado.");
                         }
                         Console.WriteLine("Para volver al menu principal presione una tecla");
@@ -102,10 +109,14 @@ namespace Front
                         string nombreDepartamento = Console.ReadLine();
                         Console.Write("Descripción del departamento: ");
                         string descripcionDepartamento = Console.ReadLine(); 
-                        Departamento departamento = new Departamento() { nombre = nombreDepartamento, descripcion = descripcionDepartamento };
+                        Departamento departamento = new Departamento()
+                        {
+                            nombre = nombreDepartamento, 
+                            descripcion = descripcionDepartamento 
+                        };
                         departamentos.Add(departamento);
                         DepartamentoRepository.GuardarDepartamento(departamento);
-                        
+
                         Console.WriteLine("Para volver al menu principal presione una tecla");
                         Console.ReadKey();
                         break;
@@ -129,8 +140,6 @@ namespace Front
                         }
                     case "6":
                         Console.WriteLine("Saliendo del programa...");
-                        EmpleadoRepository.guardarCambios();
-                        DepartamentoRepository.guardarCambios();
                         return; 
                      
 

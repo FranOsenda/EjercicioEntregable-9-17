@@ -11,7 +11,7 @@ namespace Clases_EjercicoEntregable.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<string>(
-                name: "email",
+                name: "Email",
                 table: "empleados",
                 type: "nvarchar(max)",
                 nullable: false,
@@ -22,7 +22,7 @@ namespace Clases_EjercicoEntregable.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(
-                name: "email",
+                name: "Email",
                 table: "empleados");
         }
     }

@@ -11,43 +11,43 @@ namespace Clases_EjercicoEntregable.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "departamentos",
+                name: "Departamentos",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_departamentos", x => x.id);
+                    table.PrimaryKey("PK_departamentos", x => x.ID  );
                 });
 
             migrationBuilder.CreateTable(
-                name: "empleados",
+                name: "Empleados",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    salario = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Salario = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     DepartamentoId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_empleados", x => x.id);
+                    table.PrimaryKey("PK_empleados", x => x.ID);
                     table.ForeignKey(
                         name: "FK_empleados_departamentos_DepartamentoId",
                         column: x => x.DepartamentoId,
-                        principalTable: "departamentos",
-                        principalColumn: "id",
+                        principalTable: "Departamentos",
+                        principalColumn: "ID",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_empleados_DepartamentoId",
-                table: "empleados",
+                name: "IX_Empleados_DepartamentoId",
+                table: "Empleados",
                 column: "DepartamentoId");
         }
 
