@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8DDA3AE-15CB-4546-B07A-EB5A583877AF}|Front\\Front.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8DDA3AE-15CB-4546-B07A-EB5A583877AF}|Front\\Front.csproj|solutionrelative:front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\repository\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\repository\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\migrations\\20250917230615_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\migrations\\20250917230615_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\migrations\\20250918003602_actualizacionemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\migrations\\20250918003602_actualizacionemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\repository\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\repository\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\ejercicioentregable-9-17\\clases ejercicoentregable\\clases ejercicoentregable\\migrations\\20250917230615_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827C08C-8C1E-46D4-B0CA-9A9BA0AA9555}|Clases EjercicoEntregable\\Clases EjercicoEntregable.csproj|solutionrelative:clases ejercicoentregable\\migrations\\20250917230615_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "20250917230615_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Migrations\\20250917230615_InitialCreate.cs",
               "RelativeDocumentMoniker": "Clases EjercicoEntregable\\Migrations\\20250917230615_InitialCreate.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "20250918003602_ActualizacionEmail.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Migrations\\20250918003602_ActualizacionEmail.cs",
               "RelativeDocumentMoniker": "Clases EjercicoEntregable\\Migrations\\20250918003602_ActualizacionEmail.cs",
@@ -74,37 +74,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Clases EjercicoEntregable\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "Clases EjercicoEntregable\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T01:55:30.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DepartamentoRepository.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Repository\\DepartamentoRepository.cs",
               "RelativeDocumentMoniker": "Clases EjercicoEntregable\\Repository\\DepartamentoRepository.cs",
               "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Repository\\DepartamentoRepository.cs",
               "RelativeToolTip": "Clases EjercicoEntregable\\Repository\\DepartamentoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T23:38:09.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Models\\Departamento.cs",
               "RelativeDocumentMoniker": "Clases EjercicoEntregable\\Models\\Departamento.cs",
               "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Models\\Departamento.cs",
               "RelativeToolTip": "Clases EjercicoEntregable\\Models\\Departamento.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T22:45:56.168Z"
             },
@@ -122,37 +122,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EmpleadoRepository.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Repository\\EmpleadoRepository.cs",
               "RelativeDocumentMoniker": "Clases EjercicoEntregable\\Repository\\EmpleadoRepository.cs",
               "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Repository\\EmpleadoRepository.cs",
               "RelativeToolTip": "Clases EjercicoEntregable\\Repository\\EmpleadoRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T22:42:21.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Data\\AplicationDbContext.cs",
               "RelativeDocumentMoniker": "Clases EjercicoEntregable\\Data\\AplicationDbContext.cs",
               "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Clases EjercicoEntregable\\Data\\AplicationDbContext.cs",
               "RelativeToolTip": "Clases EjercicoEntregable\\Data\\AplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T22:22:40.015Z"
+              "WhenOpened": "2025-09-17T22:22:40.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Front\\Program.cs",
               "RelativeDocumentMoniker": "Front\\Program.cs",
               "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\EjercicioEntregable-9-17\\Clases EjercicoEntregable\\Front\\Program.cs",
               "RelativeToolTip": "Front\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAKoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T22:18:55.074Z",
               "EditorCaption": ""
